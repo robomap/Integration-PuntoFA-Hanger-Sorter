@@ -22,7 +22,7 @@ The integration consists of different elements;
 The Customer Integration software is developed in "Java?". Here are the main configurations.
   · **Development environment:** Visual Studio Code.
   · **Code language:** Java.
-  · 
+  · **Software pieces;** API integration, OPC-UA integration. 
 
 ## API
 The API (Application Protocol Interface) is the protocol exchanging the data between the Robomap Cloud and the Customer Integration. For the information related with the API check the following document. [API Document](https://github.com/robomap/Robomap-Cloud/blob/main/documentation/API.md).
