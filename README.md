@@ -17,7 +17,7 @@ The integration consists of different elements;
 
 
 ## API
-The API (Application Protocol Interface) is the protocol exchanging the data between the Robomap Cloud and the Customer Integration. For the information related with the 
+The API (Application Protocol Interface) is the protocol exchanging the data between the Robomap Cloud and the Customer Integration. For the information related with the API check the following document. [API Document](https://github.com/robomap/Robomap-Cloud/blob/main/documentation/API.md).
 
 ## OPC-UA
 OPC-UA is an industrial protocol for exchanging data with PLC Devices. In this case, we use the protocol to exchange data between the 
