@@ -7,6 +7,9 @@ Intralogistics integration to Robomap Cloud for exchanging data. The integration
 - **Location**: Lliça, Spain.
 - **Collaborators**: Robomap Cloud members and MIM Maintenance organization (PLC Team).
 
+## Example
+On the following link there's an example of an integration to Robomap Cloud done by MIM Patchworksevice in another customer [Example code](https://github.com/Group-MIM/2023MP030-Decantalo).
+
 ## Architecture
 The integration consists of different elements; 
   · Robomap Cloud. Server where the application is hosted, this server runs on the cloud and is the one handling the reuqests from the customer integration.
