@@ -1,5 +1,5 @@
 # Integration Punto FA Hanger Sorter
-Intralogistics integration to Robomap Cloud for exchanging data. The integration is between the Robomap Cloud Platform and the customer Punto Fa located in Lliça de Munt, Spain. The integration basically consists to extract data from the PLC Device and sending it to the cloud through an API. On the first versions the idea is to integrate the basic incidences of the system and, in the future, integrate more and more data in order to do a mirror of the PLC to the cloud.
+Intralogistics integration to Robomap Cloud for exchanging data. The integration is between the Robomap Cloud Platform and the customer Punto Fa located in Lliça de Munt, Spain. The integration basically consists to extract data from the PLC Device and sending it to the cloud through an API. On the first versions the idea is to integrate the basic incidences of the system and, in the future, integrate more and more data in order to do a mirror of the PLC to the Cloud.
 
 ## Metadata
 - **Customer**: Punto Fa.
