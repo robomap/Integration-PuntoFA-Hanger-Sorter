@@ -18,6 +18,7 @@ The integration consists of different elements;
 ## Description
 The Customer Integration software is developed in "Java?". Here are the main configurations.
   · **Development environment:** Visual Studio Code.
+  · **Code language:** Java.
   · 
 
 ## API
@@ -30,6 +31,9 @@ OPC-UA is an industrial protocol for exchanging data with PLC Devices. In this c
 - Test the API Integration by using Postman.
 - Developing the API integration and do some tests.
 - Test the network usage when downloading data from the PLC.
-  
+
+## Build
+Once the software code is ready, will be exported in a .jar file and next translated to a .exe file. Afterwars, will be added as a service on the customer pc.
+
 ## Copyright
 Robomap Technologies 2023 © Copyritght .
