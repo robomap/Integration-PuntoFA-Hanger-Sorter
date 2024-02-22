@@ -16,7 +16,9 @@ The integration consists of different elements;
 ![image](https://github.com/robomap/Integration-PuntoFA-Hanger-Sorter/assets/35137073/4130ec92-5f8a-4629-90a8-a819157c34b5)
 
 ## Description
-The Customer Integration software is developed in "Java?".
+The Customer Integration software is developed in "Java?". Here are the main configurations.
+  · **Development environment:** Visual Studio Code.
+  · 
 
 ## API
 The API (Application Protocol Interface) is the protocol exchanging the data between the Robomap Cloud and the Customer Integration. For the information related with the API check the following document. [API Document](https://github.com/robomap/Robomap-Cloud/blob/main/documentation/API.md).
