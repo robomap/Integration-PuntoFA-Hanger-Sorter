@@ -31,7 +31,7 @@ The API (Application Protocol Interface) is the protocol exchanging the data bet
 OPC-UA is an industrial protocol for exchanging data with PLC Devices. In this case, we use the protocol to exchange data between the 
 
 ## Pending Tasks
-- Test the API Integration by using Postman.
+- Test the API Integration by using Postman [Robomap Cloud API](https://robomap-cloud-team.postman.co/workspace/Robomap-Cloud~471d841d-3ff0-439c-8343-dc1e5f64d127/collection/29252524-2efb6b26-a71f-47a9-85a4-bcf3a3eb811c?action=share&creator=29252524).
 - Developing the API integration and do some tests.
 - Test the network usage when downloading data from the PLC.
 
