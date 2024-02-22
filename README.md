@@ -22,5 +22,9 @@ The API (Application Protocol Interface) is the protocol exchanging the data bet
 ## OPC-UA
 OPC-UA is an industrial protocol for exchanging data with PLC Devices. In this case, we use the protocol to exchange data between the 
 
+## Pending Tasks
+- .
+- .
+  
 ## Copyright
 Robomap Technologies 2023 © Copyritght .
